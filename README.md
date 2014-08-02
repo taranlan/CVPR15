@@ -9,3 +9,7 @@ cd feature/
 
 cd videoseg/
 1. run compute_multi_segments.m to select the key region proposals for every frame based on the motion features
+
+*** To make the code run, you need to downloaded the following toolboxes and put them at util/external: ***
+1. http://vision.cs.utexas.edu/projects/keysegments/ (Include the code for computing region proposals and optical flow)
+2. http://lear.inrialpes.fr/~wang/improved_trajectories (Only if you want to use the dense trajectory features)
