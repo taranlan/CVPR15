@@ -14,5 +14,5 @@ cd videoseg/
 
 *** To make the code run, you need to download the following toolboxes and put them at util/external: ***
 
-1. http://vision.cs.utexas.edu/projects/keysegments/ (Include the code for computing region proposals and optical flow)
+1. http://vision.cs.utexas.edu/projects/keysegments/ (computing region proposals and optical flow)
 2. http://lear.inrialpes.fr/~wang/improved_trajectories (Only if you want to use the dense trajectory features)
